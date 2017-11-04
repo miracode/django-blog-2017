@@ -25,7 +25,7 @@ SECRET_KEY = 'rqrao-cyz16c%+l1)u&6td-5hu3kmd(svwgrw72t15y&_@+nb2'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'miracode.pythonanywhere.com']
 
 
 # Application definition
